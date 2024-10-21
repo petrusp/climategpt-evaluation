@@ -1,5 +1,4 @@
-group:
-  - climabench
+tag: climabench
 task: climate_eng
 dataset_path: eci-io/climate-evalutaion
 dataset_name: null #climate_eng

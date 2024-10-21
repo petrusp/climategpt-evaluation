@@ -1,5 +1,4 @@
-group:
-  - climabench
+tag: climabench
 task: climate_fever_evidence
 dataset_path: climate_fever
 output_type: multiple_choice
